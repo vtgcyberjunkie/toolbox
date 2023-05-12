@@ -1,6 +1,8 @@
 # vtgcyberjunkie's sysadmin toolbox
-This repository is a general script toolbox and misc. resources encountered during my sysadmin journey. Feel free to stay awhile and utilize the tools within. Be warned that none of this is *probably* production ready. **Use at your own risk!**
+This repository is a general script toolbox and misc. resources encountered during my sysadmin journey. Feel free to stay awhile and utilize the tools within.
+
+Be aware that none of this content is *probably* production ready. **Use in your environment at your own risk!**
 
 <p align="center">
-![doge code](./img/doge-code.jpg)
+<img src="./img/doge-code.jpg" />
 </p>
